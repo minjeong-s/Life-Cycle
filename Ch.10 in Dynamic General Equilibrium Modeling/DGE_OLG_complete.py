@@ -1,17 +1,3 @@
-# ---
-# jupyter:
-#   jupytext:
-#     formats: ipynb,py:light
-#     text_representation:
-#       extension: .py
-#       format_name: light
-#       format_version: '1.5'
-#       jupytext_version: 1.15.2
-#   kernelspec:
-#     display_name: Python 3 (ipykernel)
-#     language: python
-#     name: python3
-# ---
 
 # ## Replication of the model in Ch10: The OLG Model with Income Uncertainty
 # - Book: Dynamic General Equilibriumm Modeling (3rd ed.) by Burkhard Heer , Alfred Maußner
