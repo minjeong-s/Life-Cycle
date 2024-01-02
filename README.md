@@ -1,5 +1,5 @@
-# Life-Cycle
-Replication of Life Cycle models
+# Heterogeneous-agent-models
+Replication of Heterogeneous agent models including Life-cycle models
 - Huggett (1993)
 - Aiyagari (1994)
 - The OLG model in Chapter 10 of Dynamic General Equilibrium Modeling (by Burkhard Heer, Alfred Maußner)
