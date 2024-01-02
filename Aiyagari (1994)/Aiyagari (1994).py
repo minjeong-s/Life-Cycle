@@ -150,12 +150,6 @@ def vfi(r,w, Vguess = np.ones((na, ne))):
     return V, Vlast, Vdiff_list, savind, sav, con
 
 
-temptemp = np.array([1,2,3,4,5])
-
-temptemp[temptemp == 5] = 4
-
-temptemp
-
 
 # @ray.remote
 def simulate(Nsim = 50000, Tsim = 500):
